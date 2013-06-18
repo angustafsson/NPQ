@@ -1,8 +1,8 @@
 ﻿using System.Collections.Generic;
+using NPQ.Extensions;
+using NPQ.Implementation;
+using NPQ.Models;
 using NUnit.Framework;
-using NuPhanQ.Extensions;
-using NuPhanQ.Implementation;
-using NuPhanQ.Models;
 
 namespace $rootnamespace$
 {
